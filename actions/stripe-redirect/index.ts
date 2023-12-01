@@ -58,7 +58,7 @@ const handler = async (data: InputType): Promise<ReturnType> => {
                 name: "NeurAI Pro",
                 description: "Unlimited boards for your organization"
               },
-              unit_amount: 100,
+              unit_amount: 10000,
               recurring: {
                 interval: "month"
               },

@@ -53,12 +53,12 @@ const handler = async (data: InputType): Promise<ReturnType> => {
         line_items: [
           {
             price_data: {
-              currency: "USD",
+              currency: "INR",
               product_data: {
                 name: "NeurAI Pro",
                 description: "Unlimited boards for your organization"
               },
-              unit_amount: 2000,
+              unit_amount: 100,
               recurring: {
                 interval: "month"
               },

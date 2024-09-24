@@ -77,7 +77,7 @@ If you want to contribute to the development of NeurAI, follow these guidelines:
 ## Payment Testing
 
 If you're exploring the payment feature within NeurAI and want to simulate a transaction, you can use the following test card number:
-- **Test Card Number**: 4000 0035 6000 0008 (for India)
+- **Test Card Number**: 4242 4242 4242 4242
 - **Expiration Date**: Any valid future date
 - **CVV**: Any 3-digit number
 ```

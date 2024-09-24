@@ -9,6 +9,7 @@ NeurAI is a web application that offers a collaborative task management system, 
 - [Usage](#usage)
 - [Getting Started](#getting-started)
 - [Development](#development)
+- [Payment Testing](#Payment-Testing)
 - [Contributing](#contributing)
 - [License](#license)
 

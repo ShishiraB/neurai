@@ -73,6 +73,16 @@ If you want to contribute to the development of NeurAI, follow these guidelines:
     ```
 5. Open a pull request to the main NeurAI repository.
 
+## Payment Testing
+
+If you're exploring the payment feature within NeurAI and want to simulate a transaction, you can use the following test card number:
+- **Test Card Number**: 4000 0035 6000 0008 (for India)
+- **Expiration Date**: Any valid future date
+- **CVV**: Any 3-digit number
+```
+Note: This card is for testing purposes only and does not represent a real transaction. It will allow you to simulate payments without processing actual funds.
+```
+
 ## Contributing
 Contributions to NeurAI are welcome! Feel free to open issues, submit pull requests, or provide feedback.
 
